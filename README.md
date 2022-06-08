@@ -1,6 +1,7 @@
 # Hi! 👋🤓
 
-### Welcome to my profile, I'm Janny, selftaught developer :computer:, passionate about programming. Love adventure and traveling :mountain:. Thanks for visiting my profile :smile: see you again :hand:
+### Welcome to my profile, I'm Janny, selftaught developer :computer:, passionate about programming. Love adventure and traveling :mountain:. 
+### Thanks for visiting my profile :smile: see you again :hand:
 ---
 
 ## How to reach me
